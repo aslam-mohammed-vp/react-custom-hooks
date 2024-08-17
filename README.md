@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Custom Hook React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This simple react app explains different examples of custom hooks
 
 ## Available Scripts
 
